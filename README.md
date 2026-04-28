@@ -59,7 +59,7 @@ This project applies the full data science pipeline — from raw data ingestion 
 - Full correlation heatmap
 - Applied **SMOTE** (Synthetic Minority Oversampling Technique) to handle class imbalance for model training
 
-### 3. Model Training (Member 3)
+### 3. Model Training (Member 1)
 Three models were trained and compared:
 
 | Model | Type |
@@ -72,7 +72,7 @@ Each model went through:
 - **Baseline training** on SMOTE-resampled data
 - **Hyperparameter tuning** via `GridSearchCV` optimizing for **F1-Score**
 
-### 4. Evaluation (Member 4)
+### 4. Evaluation (Member 2)
 Models evaluated on five metrics:
 - **Accuracy**
 - **Precision**
@@ -129,6 +129,4 @@ A UI prototype for a credit default risk assessment tool was designed in Figma:
 
 ---
 
-## 📄 License
 
-This project was developed for academic purposes as part of the **CDS6314** course. Dataset credits go to the original UCI repository authors.
