@@ -1,4 +1,4 @@
-# 💳 Credit Card Default Prediction — CDS6314 Group Project (P60)
+# 💳 Credit Card Default Prediction 
 
 A collaborative machine learning project that predicts whether a credit card client will default on their next payment, using the UCI **Default of Credit Card Clients** dataset.
 
@@ -18,20 +18,18 @@ This project applies the full data science pipeline — from raw data ingestion 
 |--------|------|--------------|
 | **Member 1** | Dataset Understanding & Preprocessing | Cleaned CSV, train/test splits, preprocessing pipeline (`.pkl`) |
 | **Member 2** | Exploratory Data Analysis (EDA) | Statistical summaries, distribution plots, correlation heatmap, SMOTE |
-| **Member 3** | Model Development & Training | Baseline + tuned models (Logistic Regression, Random Forest, MLP Neural Network) |
-| **Member 4** | Model Evaluation & Application Mockup | Performance comparison, Figma app mockup |
+| **Member 1** | Model Development & Training | Baseline + tuned models (Logistic Regression, Random Forest, MLP Neural Network) |
+| **Member 2** | Model Evaluation & Application Mockup | Performance comparison, Figma app mockup |
 
 ---
 
 ## 📂 Project Structure
 
-```
-2530_CDS6314_Project_Final_Group_P60/
+```Predicting Credit Card Default Risk Using Data Mining Techniques
 │
-├── Code_(P60).ipynb                     # Main Jupyter Notebook (all members)
+├── Code.ipynb                     # Main Jupyter Notebook (all members)
 ├── default of credit card clients.xls   # Raw dataset (UCI)
-├── Report (P60).pdf                     # Final project report
-├── Presentation (P60).pptx              # Slide deck
+├── Report.pdf                     # Final project report
 │
 └── member1_outputs/
     ├── data_cleaned.csv                 # Cleaned dataset
