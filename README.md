@@ -128,5 +128,7 @@ A UI prototype for a credit default risk assessment tool was designed in Figma:
 🔗 [View Application Mockup](https://laurel-food-52616486.figma.site/portfolio)
 
 ---
-
+## Contributors
+- Arvind A/L Gopalakrishna Thevar
+- Santoshkumar A/L K Munusamy(https://github.com/SantoshKumar29)
 
